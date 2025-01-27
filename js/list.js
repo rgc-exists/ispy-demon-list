@@ -3,6 +3,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "El Dorado",
+			"author": "LmAnubis",
+			"more": "none",
+			"id": 11904920,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/MNGdFpdhaIo",
+			"key": 1
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "name here",
 					"link": "yt link here",
@@ -10,7 +24,7 @@ const d = {
 					"hz": "refresh rate here (Make sure you add Hz at the end"
 				},
 
-      ],
+      		],
 			"name": "Level name here.",
 			"author": "Author name here",
 			"more": "none",
@@ -22,28 +36,10 @@ const d = {
 			"key": 0
 		},
 		/*=================================================================================*/
-		/*=================================================================================*/
-		{
-			"vids": [
-			],
-			"name": "El Dorado",
-			"author": "LmAnubis",
-			"more": "none",
-			"id": 11904920,
-			"pass": "",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/MNGdFpdhaIo",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 1
-		},
-		/*=================================================================================*/
-
-
-
-
-/*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
+		
 
 	],
+/*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
 	"version": [
 		1,
 		0,
