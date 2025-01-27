@@ -3,6 +3,8 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+				},
 			],
 			"name": "Cataclysm",
 			"author": "Macaroni & Games",
@@ -33,6 +35,21 @@ const d = {
 		{
 			"vids": [
 	      		],
+			"name": "Fairydust",
+			"author": "WeeBryanYT",
+			"more": "none",
+			"id": 5310094,
+			"pass": "123456",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/-nYxFP6MFxM",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 2
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+	      		],
 			"name": "iSpyWithMyLittleEye",
 			"author": "Xdoge78",
 			"more": "none",
@@ -41,7 +58,7 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/rQ-X-IV3ZJE",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 2
+			"key": 3
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -68,7 +85,7 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://medal.tv/games/geometry-dash/clips/jzxC0yzlvjAXrBd3P/VF6Abd9fLxFZ?invite=cr-MSxlN2ssMjU0MTQ3NDg1LA",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 3
+			"key": 4
 		},
 		/*=================================================================================*/
 
