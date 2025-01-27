@@ -4,10 +4,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "name here",
-					"link": "yt link here",
-					"percent": "remove these quotations and replace it with an integer (numbers)",
-					"hz": "refresh rate here (Make sure you add Hz at the end"
 				},
 			],
 			"name": "El Dorado",
@@ -24,10 +20,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "name here",
-					"link": "yt link here",
-					"percent": "remove these quotations and replace it with an integer (numbers)",
-					"hz": "refresh rate here (Make sure you add Hz at the end"
 				},
 	      		],
 			"name": "iSpyWithMyLittleEye",
