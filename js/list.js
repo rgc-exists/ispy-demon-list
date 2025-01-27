@@ -54,10 +54,16 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "name here",
-					"link": "yt link here",
-					"percent": "remove these quotations and replace it with an integer (numbers)",
-					"hz": "refresh rate here (Make sure you add Hz at the end"
+					"user": "DamoonX",
+					"link": "https://youtu.be/FAiToneZW6M",
+					"percent": 100,
+					"hz": "144 Hz"
+				},
+				{
+					"user": "Xdoge78",
+					"link": "https://www.youtube.com/watch?v=gd9tbsMun5M",
+					"percent": 100,
+					"hz": "120 Hz"
 				},
 	      		],
 			"name": "iS",
