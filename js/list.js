@@ -22,6 +22,21 @@ const d = {
 			"key": 0
 		},
 		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "El Dorado",
+			"author": "LmAnubis",
+			"more": "none",
+			"id": 11904920,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/MNGdFpdhaIo",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 1
+		},
+		/*=================================================================================*/
 
 
 
