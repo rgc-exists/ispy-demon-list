@@ -31,13 +31,13 @@ const d = {
 					"hz": "refresh rate here (Make sure you add Hz at the end"
 				},
 	      		],
-			"name": "Level name here.",
-			"author": "Author name here",
+			"name": "iSpyWithMyLittleEye",
+			"author": "Xdoge78",
 			"more": "none",
-			"id": "remove quotations and replace them with the level ID (integers)",
-			"pass": "Level pass here",
-			"percentToQualify": "remove quotations and replace them with integers (numbers)",
-			"verificationVid": "verification vid link here (youtube and twitch only allowed)",
+			"id": 89886591,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/rQ-X-IV3ZJE",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 1
 		},
