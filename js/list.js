@@ -76,7 +76,7 @@ const d = {
 				},
 	      		],
 			"name": "iS",
-			"author": "Grenate",
+			"author": "frogger2187",
 			"more": "none",
 			"id": 65765662,
 			"pass": "",
