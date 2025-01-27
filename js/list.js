@@ -11,7 +11,7 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/MNGdFpdhaIo",
-			"key": 1
+			"key": 0
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -33,10 +33,10 @@ const d = {
 			"percentToQualify": "remove quotations and replace them with integers (numbers)",
 			"verificationVid": "verification vid link here (youtube and twitch only allowed)",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 0
+			"key": 100
 		},
 		/*=================================================================================*/
-		
+
 
 	],
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
