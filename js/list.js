@@ -32,7 +32,7 @@ const d = {
 			"percentToQualify": "remove quotations and replace them with integers (numbers)",
 			"verificationVid": "verification vid link here (youtube and twitch only allowed)",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 100
+			"key": 1
 		},
 		/*=================================================================================*/
 
