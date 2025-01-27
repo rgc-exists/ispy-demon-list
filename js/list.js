@@ -3,6 +3,13 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/MNGdFpdhaIo",
+					"percent": 100,
+					"hz": "144 Hz"
+				},
+				
 			],
 			"name": "El Dorado",
 			"author": "DamoonX",
