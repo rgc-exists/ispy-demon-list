@@ -23,8 +23,7 @@ const d = {
 					"percent": "remove these quotations and replace it with an integer (numbers)",
 					"hz": "refresh rate here (Make sure you add Hz at the end"
 				},
-
-      		],
+	      		],
 			"name": "Level name here.",
 			"author": "Author name here",
 			"more": "none",
