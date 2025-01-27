@@ -5,7 +5,7 @@ const d = {
 			"vids": [
 			],
 			"name": "El Dorado",
-			"author": "LmAnubis",
+			"author": "DamoonX",
 			"more": "none",
 			"id": 11904920,
 			"pass": "",
