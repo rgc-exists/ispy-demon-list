@@ -137,6 +137,21 @@ const d = {
 			"key": 7
 		},
 		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Ratio Circles",
+			"author": "frogger2187",
+			"more": "none",
+			"id": 77132030,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/jwRSMap9agM",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 8
+		},
+		/*=================================================================================*/
 		
 
 
