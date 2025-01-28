@@ -32,6 +32,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "frogger2187",
+					"link": "https://youtu.be/CbOL9e62oLE",
+					"percent": 100,
+					"hz": "144 Hz",
+				},
 	      		],
 			"name": "iSpyWithMyLittleEye",
 			"author": "Xdoge78",
