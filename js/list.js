@@ -67,14 +67,12 @@ const d = {
 					"link": "https://youtu.be/FAiToneZW6M",
 					"percent": 100,
 					"hz": "144 Hz",
-					"usesBlinkingEye": false
 				},
 				{
 					"user": "Xdoge78",
 					"link": "https://www.youtube.com/watch?v=gd9tbsMun5M",
 					"percent": 100,
 					"hz": "120 Hz",
-					"usesBlinkingEye": true
 				},
 			],
 			"name": "iS",
@@ -88,7 +86,6 @@ const d = {
 			"key": 4
 		},
 		/*=================================================================================*/
-
 
 
 	],
