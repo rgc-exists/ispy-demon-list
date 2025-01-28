@@ -33,21 +33,6 @@ const d = {
 		{
 			"vids": [
 	      		],
-			"name": "Fairydust",
-			"author": "WeeBryanYT",
-			"more": "none",
-			"id": 5310094,
-			"pass": "123456",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/-nYxFP6MFxM",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 3
-		},
-		/*=================================================================================*/
-		/*=================================================================================*/
-		{
-			"vids": [
-	      		],
 			"name": "iSpyWithMyLittleEye",
 			"author": "Xdoge78",
 			"more": "none",
@@ -57,6 +42,36 @@ const d = {
 			"verificationVid": "https://youtu.be/rQ-X-IV3ZJE",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 2
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+	      		],
+			"name": "Windy Landscape",
+			"author": "Macaroni & Games",
+			"more": "none",
+			"id": 4957691,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/m1_1bhlFDiU",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 3
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+	      		],
+			"name": "Fairydust",
+			"author": "WeeBryanYT",
+			"more": "none",
+			"id": 5310094,
+			"pass": "123456",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/-nYxFP6MFxM",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 4
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -83,9 +98,10 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/PANVVo5A020",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 4
+			"key": 5
 		},
 		/*=================================================================================*/
+		
 
 
 	],
