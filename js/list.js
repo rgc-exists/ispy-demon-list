@@ -83,7 +83,7 @@ const d = {
 			"id": 65765662,
 			"pass": "",
 			"percentToQualify": 100,
-			"verificationVid": "https://medal.tv/games/geometry-dash/clips/jzxC0yzlvjAXrBd3P/VF6Abd9fLxFZ?invite=cr-MSxlN2ssMjU0MTQ3NDg1LA",
+			"verificationVid": "https://youtu.be/PANVVo5A020",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 4
 		},
