@@ -101,6 +101,36 @@ const d = {
 			"key": 5
 		},
 		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Sakupen Egg",
+			"author": "frogger2187",
+			"more": "none",
+			"id": 64755027,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/cXyzO5HARYE",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 6
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Tower Descent",
+			"author": "Macaroni & Games",
+			"more": "none",
+			"id": 92742742,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/pYL06B4XxiA",
+/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
+			"key": 7
+		},
+		/*=================================================================================*/
 		
 
 
