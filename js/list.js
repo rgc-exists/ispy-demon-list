@@ -41,7 +41,7 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/-nYxFP6MFxM",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 2
+			"key": 3
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -56,7 +56,7 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/rQ-X-IV3ZJE",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 3
+			"key": 2
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -66,15 +66,17 @@ const d = {
 					"user": "DamoonX",
 					"link": "https://youtu.be/FAiToneZW6M",
 					"percent": 100,
-					"hz": "144 Hz"
+					"hz": "144 Hz",
+					"usesBlinkingEye": false
 				},
 				{
 					"user": "Xdoge78",
 					"link": "https://www.youtube.com/watch?v=gd9tbsMun5M",
 					"percent": 100,
-					"hz": "120 Hz"
+					"hz": "120 Hz",
+					"usesBlinkingEye": true
 				},
-	      		],
+			],
 			"name": "iS",
 			"author": "frogger2187",
 			"more": "none",

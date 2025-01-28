@@ -206,7 +206,7 @@
             return +(Math.round(+arr[0] + "e" + sig + (+arr[1] + scale)) + "e-" + scale);
         }
     }
-    function getUserPoint(rank, percent, cutline, hz) {
+    function getUserPoint(rank, percent, cutline, hz, usesBlinkingEye) {
         var hzpoint = 0.0;
         if (hz == null) {
             hzpoint = 0;
@@ -236,6 +236,9 @@
             if (percent != 100) {
                 return roundNumber(score - (score / 3), 3);
             } else {
+                if (usesBlinkingEye){
+                    score = roundNumber(score * 1.2, 1);
+                }
                 return score;
             }
         }
@@ -258,7 +261,7 @@
                 }
             }
             var po;
-            po = getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz);
+            po = roundNumber(getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz, entry2.usesBlinkingEye), 0);
             if (isLoot == true) {
                 for (var b = 0; b < rank_data.length; b++) {
                     var user_name = rank_data[b].name.toUpperCase();
@@ -284,7 +287,7 @@
     var rank = `<ol>`;
     for (var i = 0; i < rank_data.length; i++) {
         sc = `getUserData(${i})`;
-        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${rank_data[i].name} : ${rank_data[i].point} ➦</span><br>`;
+        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${rank_data[i].name} : ${roundNumber(rank_data[i].point, 0)} ➦</span><br>`;
     }
     rank = `${rank} </ol>`;
     rank_node.html(`${rank}`);
