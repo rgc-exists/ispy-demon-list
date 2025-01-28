@@ -116,11 +116,12 @@
                     </li>-->
                 </div>
                 <div>
-                    <br><br>
+                    <br>
+                    <h3>IMPORTANT: You MUST have the "blinking eye" enabled during your run.</h3>
                     You can submit a record/verification if you meet the following requirements:
                     <ul>
                         <li>The level must be beaten with the iSpy-ify mod enabled.</li>
-                        <li>You are allowed to beat it without the "blinking eye" disabled, but you get more list points if you leave it on. :)</li>
+                        <li>You MUST beat the level WITH the blinking eye enabled. The setting to turn it off is only for practice.</li>
                         <li>The level must be RATED or have decoration/gameplay that the list mods deem rateworthy.</li>
                         <li>Your video must be a YouTube video (can be unlisted) or a Twitch clip, no other websites are supoorted.
 						<li>Your video must include your microphone/clicks.</li>
@@ -130,7 +131,6 @@
                         <li>Do not use easy modes, only a record of the unmodified level qualifies</li>
                         <li>Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level</li>
                     </ul><br>
-                    <h3>IMPORTANT: Having the "blinking eye" enabled during your run multiplies your list points by 1.2x</h3>
                     <br>
                     <p>
                     Changelog:
@@ -207,7 +207,7 @@
             return +(Math.round(+arr[0] + "e" + sig + (+arr[1] + scale)) + "e-" + scale);
         }
     }
-    function getUserPoint(rank, percent, cutline, hz, usesBlinkingEye) {
+    function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
             hzpoint = 0;
@@ -237,9 +237,6 @@
             if (percent != 100) {
                 return roundNumber(score - (score / 3), 3);
             } else {
-                if (usesBlinkingEye){
-                    score = roundNumber(score * 1.2, 1);
-                }
                 return score;
             }
         }
@@ -262,7 +259,7 @@
                 }
             }
             var po;
-            po = roundNumber(getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz, entry2.usesBlinkingEye), 0);
+            po = roundNumber(getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz), 0);
             if (isLoot == true) {
                 for (var b = 0; b < rank_data.length; b++) {
                     var user_name = rank_data[b].name.toUpperCase();
