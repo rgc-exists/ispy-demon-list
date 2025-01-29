@@ -4,6 +4,18 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Acu",
+			"author": "Frogger",
+			"more": "none",
+			"id": 3979721,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/_-irZi99ofo",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
 			"name": "Cataclysm",
 			"author": "Macaroni & Games",
 			"more": "none",
