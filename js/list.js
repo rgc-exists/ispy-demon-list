@@ -11,7 +11,6 @@ const d = {
 			"pass": "666777",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/ZmFMlMDIGwc",
-			"key": 0
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -25,8 +24,19 @@ const d = {
 			"pass": "64701",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/MNGdFpdhaIo",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 1
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+	      		],
+			"name": "Windy Landscape",
+			"author": "Macaroni & Games",
+			"more": "none",
+			"id": 4957691,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/m1_1bhlFDiU",
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -46,23 +56,6 @@ const d = {
 			"pass": "420420",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/rQ-X-IV3ZJE",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 2
-		},
-		/*=================================================================================*/
-		/*=================================================================================*/
-		{
-			"vids": [
-	      		],
-			"name": "Windy Landscape",
-			"author": "Macaroni & Games",
-			"more": "none",
-			"id": 4957691,
-			"pass": "",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/m1_1bhlFDiU",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 3
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -76,8 +69,6 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/-nYxFP6MFxM",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 4
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -103,8 +94,6 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/PANVVo5A020",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 5
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -118,8 +107,6 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/pYL06B4XxiA",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 6
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -133,8 +120,6 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/cXyzO5HARYE",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 7
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -148,8 +133,6 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/jwRSMap9agM",
-/*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
-			"key": 8
 		},
 		/*=================================================================================*/
 		
