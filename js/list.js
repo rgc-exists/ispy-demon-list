@@ -3,6 +3,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/Uh9M4SomHBo",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 			],
 			"name": "Acu",
 			"author": "frogger2187",
@@ -79,6 +85,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/xWoYHZpfk6A",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 	      		],
 			"name": "Fairydust",
 			"author": "WeeBryanYT",
