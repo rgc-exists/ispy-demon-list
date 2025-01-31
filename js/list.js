@@ -15,6 +15,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/3gOnPozpAr4",
+					"percent": 100,
+					"hz": "144 Hz",
+				},
 			],
 			"name": "Cataclysm",
 			"author": "Macaroni & Games",
