@@ -3,6 +3,19 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Bloodbath",
+			"author": "DamoonX",
+			"more": "none",
+			"id": 10565740,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/sXyl3RqPJVo",
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "DamoonX",
 					"link": "https://youtu.be/Uh9M4SomHBo",
@@ -53,6 +66,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://www.youtube.com/watch?v=cyfb0qjaqNc",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 	      		],
 			"name": "Windy Landscape",
 			"author": "Macaroni & Games",
