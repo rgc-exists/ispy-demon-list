@@ -91,6 +91,12 @@ const d = {
 					"percent": 100,
 					"hz": "144 Hz",
 				},
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/FGztmK1e2zs",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 	      		],
 			"name": "iSpyWithMyLittleEye",
 			"author": "Xdoge78",
@@ -148,6 +154,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/1E5bgav4M-g",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 			],
 			"name": "Tower Descent",
 			"author": "Macaroni & Games",
@@ -161,6 +173,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/aODax4qKbkw",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 			],
 			"name": "Sakupen Egg",
 			"author": "frogger2187",
@@ -174,6 +192,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DamoonX",
+					"link": "https://youtu.be/SwO4CPdHva8",
+					"percent": 100,
+					"hz": "144 Hz",
+				}
 			],
 			"name": "Ratio Circles",
 			"author": "frogger2187",
